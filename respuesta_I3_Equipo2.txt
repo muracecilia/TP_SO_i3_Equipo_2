@@ -1,0 +1,25 @@
+Responde BETA:
+a-¿Como queda El master después de estos cambios?
+
+Actualizado con todos los cambios y archivos que se hicieron en la segunda rama.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+si. una vez que se uno todo en el main.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+git pull - actualizar el branch
+git checkout main - cambiar la posicion en las ramas. 
+git merge Quiroga - para actualizar los archivos 
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Responde ALFA:
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
