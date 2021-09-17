@@ -1,0 +1,26 @@
+Sistema operativo	Microsoft Windows 7 Ultimate
+Versión	6.1.7601 Service Pack 1 Compilación 7601
+Descripción adicional del sistema operativo 	No disponible
+Fabricante del sistema operativo	Microsoft Corporation
+Nombre del sistema	ACER-CECI
+Fabricante del sistema	Acer
+Modelo del sistema	Aspire 5742Z
+Tipo de sistema	PC basado en x64
+Procesador	Intel(R) Pentium(R) CPU        P6100  @ 2.00GHz, 1999 Mhz, 2 procesadores principales, 2 procesadores lógicos
+Versión y fecha de BIOS	Acer V1.19, 01/04/2011
+Versión de SMBIOS	2.6
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	Argentina
+Capa de abstracción de hardware	Versión = "6.1.7601.24384"
+Nombre de usuario	ACER-CECI\Administrador
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	8,00 GB
+Memoria física total	7,68 GB
+Memoria física disponible	5,03 GB
+Memoria virtual total	15,4 GB
+Memoria virtual disponible	11,1 GB
+Espacio de archivo de paginación	7,68 GB
+Archivo de paginación	C:\pagefile.sys
+
