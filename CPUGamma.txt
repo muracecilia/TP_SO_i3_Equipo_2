@@ -1,0 +1,41 @@
+Nombre del SO	Microsoft Windows 10 Pro
+Versión	10.0.19042 Compilación 19042
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	DESKTOP-QHR8R0E
+Fabricante del sistema	SAMSUNG ELECTRONICS CO., LTD.
+Modelo del sistema	300E4C/300E5C/300E7C
+Tipo de sistema	x64-based PC
+SKU del sistema	System SKUNumber
+Procesador	Intel(R) Pentium(R) CPU B960 @ 2.20GHz, 2200 Mhz, 2 procesadores principales, 2 procesadores lógicos
+Versión y fecha de BIOS	Phoenix Technologies Ltd. P04RAJ, 25/10/2012
+Versión de SMBIOS	2.7
+Versión de controladora integrada	255.255
+Modo de BIOS	Heredado
+Fabricante de la placa base	SAMSUNG ELECTRONICS CO., LTD.
+Producto placa base	SAMSUNG_NP1234567890
+Versión de la placa base	FAB1
+Rol de plataforma	Móvil
+Estado de arranque seguro	No compatible
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\WINDOWS
+Directorio del sistema	C:\WINDOWS\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	México
+Capa de abstracción de hardware	Versión = "10.0.19041.1151"
+Nombre de usuario	DESKTOP-QHR8R0E\Administrador
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	8,00 GB
+Memoria física total	7,78 GB
+Memoria física disponible	3,24 GB
+Memoria virtual total	9,03 GB
+Memoria virtual disponible	3,33 GB
+Espacio de archivo de paginación	1,25 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Desactivado
+Seguridad basada en virtualización	No habilitado
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático de dispositivo: No se puede usar TPM, No se admite un enlace PCR7, Error en la interfaz de prueba de seguridad de hardware y el dispositivo no está en modo de espera moderno, Se detectaron dispositivos o un bus compatible con DMA no permitidos, No se puede usar TPM
+Hyper-V - Extensiones de modo de monitor VM	No
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	No
+Hyper-V - Virtualización habilitada en Firmware	No
+Hyper-V -Protección de ejecución de datos	Sí
