@@ -1,0 +1,41 @@
+Nombre del SO	Microsoft Windows 10 Enterprise
+Versión	10.0.18363 compilación 18363
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	NWKS0222
+Fabricante del sistema	Dell Inc.
+Modelo del sistema	Inspiron 5593
+Tipo de sistema	PC basado en x64
+SKU del sistema	097C
+Procesador	Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz, 1190 Mhz, 4 procesadores principales, 8 procesadores lógicos
+Versión y fecha de BIOS	Dell Inc. 1.13.0, 13/11/2020
+Versión de SMBIOS	3.1
+Versión de controladora integrada	255.255
+Modo de BIOS	UEFI
+Fabricante de la placa base	Dell Inc.
+Producto de placa base	0FHJFF
+Versión de la placa base	A00
+Rol de plataforma	Móvil
+Estado de arranque seguro	Activada
+Configuración de PCR7	Se necesita elevación de privilegios para ver
+Directorio de Windows	C:\WINDOWS
+Directorio del sistema	C:\WINDOWS\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	España
+Capa de abstracción de hardware	Versión = "10.0.18362.1679"
+Nombre de usuario	ACCUSYSARGBSAS\gabriela.villarreal
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	8,00 GB
+Memoria física total	7,77 GB
+Memoria física disponible	1,74 GB
+Memoria virtual total	11,5 GB
+Memoria virtual disponible	1,91 GB
+Espacio de archivo de paginación	3,77 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Activada
+Seguridad basada en virtualización	No habilitado
+Compatibilidad con cifrado de dispositivo	Se necesita elevación de privilegios para ver
+Hyper-V - Extensiones de modo de monitor VM	Sí
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	Sí
+Hyper-V - Virtualización habilitada en Firmware	Sí
+Hyper-V -Protección de ejecución de datos	Sí
