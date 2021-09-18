@@ -31,3 +31,8 @@ git push - para subir al github
 Responde ALFA:
 
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git pull - para actualizar el repo
+git checkout Mura - para cambiar a la rama
+git add . - agrega archivo
+git commit -m - para describir el archivo
+git push - para subir al github
