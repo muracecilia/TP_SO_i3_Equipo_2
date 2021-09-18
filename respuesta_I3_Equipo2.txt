@@ -15,11 +15,19 @@ git merge Quiroga - para actualizar los archivos
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
-
+No las ramas quedan con los datos sin actualizar
 
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+No nos ubicamos en la rama correcta entonces el merge no funcionaba
 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git pull - para actualizar el repo
+git checkout Mura - para cambiar a la rama
+git add . - agrega archivo
+git commit -m - para describir el archivo
+git push - para subir al github
+
+
 Responde ALFA:
 
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
